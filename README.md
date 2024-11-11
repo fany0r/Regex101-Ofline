@@ -2,7 +2,7 @@
 
 本项目是基于 regex101.com 生成的离线版 regex101。| This project is based on regex101.com to generate an offline version of regex101.
 
-当然，你也可以在 [Release](https://github.com/fany0r/Regex101-Ofline/releases])页面下载已经生成好的离线版regex101放到本地 Http 服务器中使用。| Of course, you can also download the generated offline version of regex101 from the [Release](https://github.com/fany0r/Regex101-Ofline/releases) page and put it into your local HTTP server for use.
+当然，你也可以在 [Release](https://github.com/fany0r/Regex101-Ofline/releases)页面下载已经生成好的离线版regex101放到本地 Http 服务器中使用。| Of course, you can also download the generated offline version of regex101 from the [Release](https://github.com/fany0r/Regex101-Ofline/releases) page and put it into your local HTTP server for use.
 
 ## 环境要求 | Environment
  - python 3.8+
