@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import os
 import sys
 import requests
@@ -101,7 +103,7 @@ def scrape_website():
 
     if not response or not sw:
         # missing_file = "index.html" if not response else "sw.js"
-        log.error("[-] 网站布局可能以改变。")
+        log.error("[-] 网站布局可能已改变。")
         sys.exit(1)
 
     with open(index_file_path, 'w', encoding='utf-8') as index_file:
